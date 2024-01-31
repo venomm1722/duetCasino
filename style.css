@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 50px;
+  background-color: rgb(87, 152, 250);
+}
+
+button {
+  font-size: 50px;
+}
+
+input {
+  font-size: 55px;
+  outline: none;
+  border: none;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 0px 20px;
+}
+
+.menu {
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 125px;
+}
+
+.menu p {
+  align-items: center;
+  display: flex;
+  font-size: 55px;
+}
+
+.deposit {
+  padding: 10px 10px;
+}
+
+.label {
+  font-size: 70px;
+  text-align: right;
+  margin-right: 50px;
+}
+
+.ring {
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+  background-color: aqua;
+  margin: 0 auto;
+  margin-bottom: 60px;
+}
+
+.chooseColor {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.chooseColor p {
+  margin-bottom: 25px;
+}
+
+.btnColor {
+  padding: 70px 80px;
+  border: none;
+}
+
+.red {
+  background-color: red;
+  margin-right: 70px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.eventBet {
+  text-align: center;
+}
+
+.eventBet p {
+  margin-bottom: 25px;
+}
+
+.eventBet input {
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 25px;
+}
+
+.placeBet {
+  padding: 10px 25px;
+  display: block;
+  margin: 0 auto;
+}
+
+.bet {
+  padding: 10px 10px;
+  margin-right: 40px;
+  margin-bottom: 65px;
+}
